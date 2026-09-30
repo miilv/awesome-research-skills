@@ -12,7 +12,9 @@
 
 ## Skills
 
-_TBD_
+### Peer review
+
+- [ai-peer-review-skill](https://github.com/AlexWortega/ai-peer-review-skill) — скилл для Claude Code: рецензирование научной статьи несколькими ревьюерами (параллельные субагенты Claude). Адаптация [poldrack/ai-peer-review](https://github.com/poldrack/ai-peer-review). MIT.
 
 ## Tools
 
